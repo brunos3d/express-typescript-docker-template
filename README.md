@@ -13,7 +13,7 @@ $ cd your-app-name
 #### 2. Install dependencies
 
 ```sh
-$ yarn Install # or just yarn
+$ yarn install # or just yarn
 ```
 
 
